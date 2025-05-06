@@ -1,8 +1,8 @@
 {
-  "name": "union-testnet-auto-bot",
+  "name": "Union-Auto-bot",
   "version": "1.0.0",
-  "description": "A Union Testnet automation bot with Blessed terminal UI, transaction charts, >
-  "main": "index.js",
+  "description": "A Union Testnet automation bot with Blessed terminal UI, transaction charts, and more.",
+  "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
