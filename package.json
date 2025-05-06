@@ -1,0 +1,27 @@
+{
+  "name": "union-testnet-auto-bot",
+  "version": "1.0.0",
+  "description": "A Union Testnet automation bot with Blessed terminal UI, transaction charts, >
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "union",
+    "testnet",
+    "auto-bot",
+    "ethereum",
+    "blessed",
+    "dashboard",
+    "terminal-ui"
+  ],
+  "author": "Kazuha",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.10.3",
+    "ethers": "^6.8.1",
+    "moment-timezone": "^0.5.44"
+  }
+}
